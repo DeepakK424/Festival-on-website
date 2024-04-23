@@ -1,0 +1,266 @@
+*{
+margin: 0px;
+padding:0px;
+}
+header{
+    color: azure;
+}
+.row1{
+  height: 80px;
+  padding: 20px;
+}
+.nav-link{
+  margin-left: 57px;
+}
+.bibi-binoculars{
+  margin-left: 76px;
+}
+.bibi-calendar-date{
+  
+color: white;
+  margin-left: 38px;
+}
+.hh{
+  display: flex;
+  justify-items: right;
+  justify-content: right;
+  align-items: right;
+  margin-left: 250px;
+}
+.btn{
+  color: white;
+  background-color:darkorange;
+}
+ .btn-outline-primary {
+  background-color:blue;
+  color: white;
+  height:40px; 
+}
+
+.d-block{
+  width: 50%;
+  height: 400px;
+  display:flex;
+  justify-content: center;
+}
+footer{
+  height: 12vh;
+  width: 100%;
+  background-color: darkslategray;
+  color: white;
+}
+h3{
+  display: flex;
+  justify-content: center;
+  color: darkred;
+  padding-top: 40px;
+  text-decoration: underline;
+}
+a{
+  text-decoration: none;
+}
+.row10{
+ margin:20px;
+}
+
+.bibi-whatsapp{
+  display: flex;
+  display: inline;
+  margin-left: 10px;
+  color: white;
+  margin-top: 20px;
+  justify-content: center;
+}
+.col1{
+  margin-left: 40px;
+}
+.ddd{
+  width: 800px;
+  display: flex;
+  margin-left: 260px;
+  margin-top: 12px;
+}
+.card1{
+  margin-left: 37px;
+  color:white;
+}
+.card2{
+  margin-left: 61px;
+}
+.card55{
+  background-color: black; 
+}
+.formkkk{
+  border: 2px solid black;
+}
+.card-link{
+  text-decoration: underline;
+  color:red;
+  margin: 22px;
+  font-size: 18px;
+}
+.pop{
+  margin-top: 12px;
+  display: flex;
+  justify-content: center;
+  text-decoration: underline;
+  color:blue;
+  background-color: darkgray;
+}
+.yup{
+  color: darkblue;
+  text-decoration: underline;
+}
+.sup{
+  color:darkgreen;
+  font-size: 15px;
+}
+.drop23{
+  color: white;
+  margin-left: 18px;
+}
+
+.drop5555[data-bs-popper] {
+  top: 102%;
+  left: 1070px;
+  margin-top: 0.125rem;
+  /* font-size: 20px; */
+  text-decoration-color: chartreuse;
+}
+h2{
+  color: darkred;
+  display: flex;
+  justify-content: center;
+  text-decoration: underline;
+}
+.row12{
+  margin: 25px;
+}
+.pp{
+  text-decoration: underline;
+  margin-top: 12px;
+}
+.op{
+  background-color:blue;
+  font-family: 'Roboto' , sans-serif;
+}
+.signup-box{
+  width: 360px;
+  height: 552px;
+  margin: auto;
+  background-color: white;
+  border-radius: 3px;
+  margin-top: 60px;
+}
+.mm{
+  text-align: center;
+  padding-top: 15px;
+}
+.uu{
+  text-align: center;
+}
+.qq{
+  width: 300px;
+  margin-left: 20px;
+  font-size: 18px;
+}
+form input{
+  width: 100%;
+  padding: 7px;
+  border: none;
+  border: 1px solid gray;
+  border-radius: 6px;
+  outline: none;
+}
+form label{
+  display: flex;
+  margin-top: 20px;
+  font-size: 18px;
+}
+input[type="button"]{
+  width: 320px;
+  height: 35px;
+  margin-top: 20px;
+  border: none;
+  background-color: green;
+  color: white;
+  font-size: 18px;
+}
+.mk{
+  text-align: center;
+}
+.jkl{
+  text-decoration: underline;
+}
+.login-box{
+  width: 360px;
+  height: 285px;
+  margin: auto;
+  border-radius: 3px;
+  background-color:white;
+  margin-top: 120px;
+}
+.thor{
+  color: white;
+}
+.loi{
+  color:darkgreen;
+  font-size: 23px;
+}
+.bul{
+  margin-top: 312px;
+}
+.bob{
+
+  margin-left: 80%;
+}
+.dod{
+  margin-left: 5%;
+}
+.rukk{
+  margin-top: 308px;
+}
+.lok{
+  color: darkred;
+  text-decoration: underline;
+}
+.uio{
+  margin-top: 30px;
+}
+.yuu{
+  margin-top: 120px;
+  margin-left: 50px;
+}
+.rew{
+  background-color: lightyellow;
+}
+.go{
+background-color: white;
+  font-family: 'Roboto' , sans-serif;
+
+}
+.box{
+width: 360px;
+height: 552px;
+margin: auto;
+background-color:black;
+border-radius: 3px;
+margin-top: 60px;
+}
+.qqqq{
+  color: white;
+  text-decoration: none;
+  
+  justify-content: left;
+  display: flex;
+  margin-left: 13px;
+  margin-top: 12px;
+
+}
+.Error{
+  color: red;
+  font-family: 'Roboto' , sans-serif;
+}
+.ftr{
+  background-color: white;
+}
